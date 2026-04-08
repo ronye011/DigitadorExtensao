@@ -3,22 +3,23 @@ Uma extensão disfarçado de AD Block que força a digitação de determinado te
 
 ---
 
-Installation
-Download the .zip file from this repository.
+## Instalação
+Baixe o arquivo .zip deste repositório.
 
-Extract the contents to your desired folder.
+Extraia o conteúdo para a pasta desejada.
 
-Open your browser and go to the Extension Manager.
+Abra seu navegador e acesse o Gerenciador de Extensões.
 
-Enable Developer Mode.
+Ative o Modo Desenvolvedor.
 
-Click on "Load uncompressed" and select the AD Block folder (inside the extracted folder).
+Clique em "Carregar descompactado" e selecione a pasta AD Block (dentro da pasta extraída).
 
-How to use?
-After installation, an icon will be added to the Extensions area of ​​your browser.
+Como usar?
 
-Click on it to:
+Após a instalação, um ícone será adicionado à área de Extensões do seu navegador.
 
-Block specific notifications.
+Clique nele para:
 
-Block the sound, if desired.
+Bloquear notificações específicas.
+
+Bloquear o som, se desejar.
