@@ -1,2 +1,2 @@
 # DigitadorExtensao
-Uma extensão disfarçado de Ad Block que força a digitação de determinado texto.
+Uma extensão disfarçado de AD Block que força a digitação de determinado texto.
