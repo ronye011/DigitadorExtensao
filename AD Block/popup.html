@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      width: 260px;
+      background: #f5f5f5;
+    }
+
+    .header {
+      background: #e50914;
+      color: white;
+      padding: 12px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .container {
+      padding: 15px;
+    }
+
+    .status {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 15px;
+      font-size: 14px;
+    }
+
+    .toggle {
+      width: 40px;
+      height: 20px;
+      background: #ccc;
+      border-radius: 20px;
+      position: relative;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .toggle.active {
+      background: #4caf50;
+    }
+
+    .toggle::after {
+      content: "";
+      width: 18px;
+      height: 18px;
+      background: white;
+      position: absolute;
+      top: 1px;
+      left: 1px;
+      border-radius: 50%;
+      transition: 0.3s;
+    }
+
+    .toggle.active::after {
+      left: 21px;
+    }
+
+    label {
+      font-size: 13px;
+      color: #333;
+    }
+
+    input {
+      width: 100%;
+      padding: 6px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    button {
+      margin-top: 12px;
+      width: 100%;
+      padding: 8px;
+      border: none;
+      background: #e50914;
+      color: white;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #c40811;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">AD Block</div>
+
+  <div class="container">
+    
+    <div class="status">
+      <span>Status</span>
+      <div id="toggle" class="toggle"></div>
+    </div>
+
+    <label>Mensagem</label>
+    <input id="text" placeholder="Digite o texto..." />
+
+    <button id="save">Salvar</button>
+
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
