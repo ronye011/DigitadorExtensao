@@ -14,14 +14,3 @@
 
 5. Click on **"Load uncompressed"** and select the **AD Block** folder (inside the extracted folder).
 
----
-
-## How to use?
-
-- After installation, an icon will be added to the **Extensions** area of ​​your browser.
-
-- Click on it to:
-
-- Block specific notifications.
-
-- Block the sound, if desired.
