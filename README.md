@@ -17,9 +17,3 @@ Clique em "Carregar descompactado" e selecione a pasta AD Block (dentro da pasta
 Como usar?
 
 Após a instalação, um ícone será adicionado à área de Extensões do seu navegador.
-
-Clique nele para:
-
-Bloquear notificações específicas.
-
-Bloquear o som, se desejar.
