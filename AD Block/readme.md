@@ -1,5 +1,4 @@
-# FreelasExtension
-Extension that notifies about new projects
+# AD Block
 
 ---
 
@@ -13,7 +12,7 @@ Extension that notifies about new projects
 
 4. Enable **Developer Mode**.
 
-5. Click on **"Load uncompressed"** and select the **99FreelasExtension** folder (inside the extracted folder).
+5. Click on **"Load uncompressed"** and select the **AD Block** folder (inside the extracted folder).
 
 ---
 
